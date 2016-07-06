@@ -1,15 +1,53 @@
 ---
 title: "Introducing Boids & Flocking Patterns"
-slug: flocking-playground
+slug: flocking-project
 ---
 
-Coming soon!
+Let's put all of our knowledge to the test and program some fish artificial intelligence!
 
-<!-- Let's jump right into programming and learn about _variables_. In this _Swift Playground_, you will learn how to store, read, and update data. You'll also learn about a few different types of data along the way!
+When we're finished, we'll have something like this!
+
+<!-- TODO: Need gif of final -->
 
 > [action]
 >
-1. Download the variables playground from [here](https://github.com/MakeSchool-Tutorials/Intro-Variables-Swift-Playground/archive/master.zip).
+1. Download the starter project from [here](https://github.com/MakeSchool-Tutorials/Intro-Flocking-Swift-Starter/archive/master.zip).
 1. Double-click the downloaded zip file to "extract it".
-1. Inside the newly extracted folder you should see a file named `Variables.playground`, drag this into your "Make School Projects" folder.
-1. Open your "Make School Projects" folder and double-click `Variables.playground` to get started! -->
+1. Drag this newly extracted folder into your "Make School Projects" folder.
+1. Open your "Make School Projects" folder and double-click `MakeSchoolOfFish.xcodeproj` to get started!
+
+# What are boids?
+
+Swarm intelligence Introducing
+
+# Math & physics review
+
+## Sum
+
+## Average
+
+## Points
+
+### CGPoint
+
+### Scaling
+
+## Velocity
+
+1-d, 2-d
+
+## Speed
+
+## Vectors
+
+### Vector between two points
+
+### Reversing a vector
+
+# Sum of [CGPoint]
+
+# Average of [CGPoint]
+
+# Vector to a CGPoint
+
+# Vector to center of [CGPoint]
