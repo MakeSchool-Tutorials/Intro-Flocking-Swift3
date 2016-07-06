@@ -23,7 +23,7 @@ With these three, simple rules we'll start to observe an "emergent behavior". Wh
 
 At the end of this rule you should see the fish clumping together...
 
-<!-- TODO: need gif after Cohesion -->
+![Completed Cohesion](./cohesion_completed.gif)
 
 # Separation: avoiding collisions
 
@@ -33,7 +33,7 @@ At the end of this rule you should see the fish clumping together...
 
 At the end of this section you should see the fish clumping together but trying not to overlap...
 
-<!-- TODO: need gif need gif after Separation -->
+![Completed Separation](./separation_completed.gif)
 
 # Alignment: mimicking neighbors
 
@@ -43,4 +43,4 @@ At the end of this section you should see the fish clumping together but trying 
 
 At the end of this section you should see the fish clumping together, trying not to overlap, and mimicking the velocity of their neighbors! With all three of these rules together, we start to see schools of fish swimming around and combining with each other :)
 
-<!-- TODO: need gif after Alignment -->
+![Completed Alignment](./alignment_completed.gif)

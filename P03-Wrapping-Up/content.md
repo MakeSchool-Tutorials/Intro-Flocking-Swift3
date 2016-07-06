@@ -5,4 +5,4 @@ slug: wrapping-up
 
 Nice job! You just implemented your own swarm intelligence for fish (also known as boid behavior)!
 
-<!-- TODO: Need gif of final -->
+![Final flocking fish](./final.gif)

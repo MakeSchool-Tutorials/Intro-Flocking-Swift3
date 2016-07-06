@@ -7,7 +7,7 @@ Let's put all of our knowledge to the test and program some fish artificial inte
 
 When we're finished, we'll have something like this!
 
-<!-- TODO: Need gif of final -->
+![Final flocking fish](./final.gif)
 
 > [action]
 >

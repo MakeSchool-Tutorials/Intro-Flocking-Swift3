@@ -24,7 +24,7 @@ A single-tap on the screen drops some food that sticks around for 7.5 seconds. A
 
 At the end of this section you should have your normal fish flocking behavior but they should also rush towards food when there is some on the screen...
 
-<!-- TODO: Need gif of food -->
+![Completed Food](./food_completed.gif)
 
 # Swim away!
 
@@ -38,6 +38,6 @@ A double-tap on the screen creates a ripple that sticks around for 3 seconds. Af
 
 At the end of this section you should have your normal fish flocking behavior but they should also rush towards food when there is some on the screen and scatter away from ripples...
 
-<!-- TODO: Need gif of scatter + food -->
+![Completed Ripple](./ripple_completed.gif)
 
 Congratulations! You have a fully functioning fish schooling intelligence!
