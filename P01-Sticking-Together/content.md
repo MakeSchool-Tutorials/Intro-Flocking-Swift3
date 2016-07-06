@@ -151,7 +151,7 @@ In this diagram, the red fish is being simulated. It can see any fish within the
 > Update `updateVelocity` to use this new rule. `updateVelocity` should:
 >
 1. Call `calculateAlignment` and save it to a variable.
-1. Reassign the `velocity` instance variable to be the sum of the previous `velocity` and the newly calculated alignment.
+1. Reassign the `velocity` instance variable to be the sum of the previous `velocity`, previous rules, and the newly calculated alignment.
 1. Make sure there is a call to `clampVelocity` after you update the `velocity` instance variable.
 >
 > Run the app and check it out!
