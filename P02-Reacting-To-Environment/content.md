@@ -48,15 +48,13 @@ At the end of this section you should have your normal fish flocking behavior bu
 
 # Swim away!
 
-![Ripple vectors](./ripple_rule.png)
-
 One last thing... Fish hate disturbances in the water. They should scatter away whenever there is a ripple on the screen!
 
 > [info]
 >
-> A double-tap on the screen creates a ripple that sticks around for 3 seconds. After that, it disappears. For simplicity, there can only be one food cluster on the screen at a time.
+> A double-tap on the screen creates a ripple that sticks around for 3 seconds. After that, it disappears. For simplicity, there can only be one ripple on the screen at a time.
 
-![Food vectors](./food_rule.png)
+![Food vectors](./ripple_rule.png)
 
 In this diagram, the red fish is being simulated. It can see and feel any ripples within the red circle. It moves away from ripples whenever it sees them.
 
