@@ -6,7 +6,7 @@ slug: flocking-project
 > [info]
 > Xcode 8 and Swift 3 was released on on September 13th, 2016. Please make sure to update as soon as possible. [The first lesson](https://www.makeschool.com/academy/tutorial/getting-started-with-xcode-playgrounds-0afee09b-0bdb-47bd-8551-e179266b6b65/get-started-with-xcode-74d7476e-22f1-403c-99ab-b767f1a7b71e) has been updated with instructions for checking your version and updating if necessary.
 
-**This is an archive of the Xcode 7 instructions. Go back to the dashboard to find the Xcode 8 version.**
+**These are the instructions for Xcode 8. If you have Xcode 7 and cannot update, please go back to the dashboard and select the Xcode 7 version.**
 
 Let's put all of our knowledge to the test and program some fish artificial intelligence!
 
@@ -144,7 +144,7 @@ Let's start applying that math review!
 
 > [action]
 >
-1. Download the starter project from [here](https://github.com/MakeSchool-Tutorials/Intro-Flocking-Swift-Starter/archive/master.zip).
+1. Download the starter project from [here](https://github.com/MakeSchool-Tutorials/Intro-Flocking-Swift-Starter/archive/swift3.zip).
 1. Double-click the downloaded zip file to "extract it".
 1. Drag this newly extracted folder into your "Make School Projects" folder.
 1. Open your "Make School Projects" folder and double-click `MakeSchoolOfFish.xcodeproj` and single-click `Fish.swift` in the left-side navigation to get started!
