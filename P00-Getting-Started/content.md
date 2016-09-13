@@ -173,7 +173,7 @@ Find the `vectorTo` method (it should be the last method in the `Fish` class). T
 
 > [challenge]
 >
-> Fill in the body for `vectorTo(point point: CGPoint) -> CGPoint`. It should return the vector from `self.position` to `point`. See the math review above if you need help with this!
+> Fill in the body for `vectorTo(point: CGPoint) -> CGPoint`. It should return the vector from `self.position` to `point`. See the math review above if you need help with this!
 
 <!--  -->
 

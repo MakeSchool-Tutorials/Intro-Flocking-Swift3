@@ -57,7 +57,7 @@ In this diagram, the red fish is being simulated. It can see any fish within the
 
 > [challenge]
 >
-> Fill out `calculateCohension`. It should:
+> Fill out `calculateCohesion`. It should:
 >
 1. Use `delegate.fishPositions(within: cohesionVisibleDistance, of: self)` to get the positions of all fish within the constant.
 1. Calculate a vector to the center of those position points.
